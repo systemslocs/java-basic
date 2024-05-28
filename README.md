@@ -1,2 +1,3 @@
 # java-basic
-conteúdo de aulas do bootcamp
+conteúdo de aulas do bootcamp.
+fins didáticos.
