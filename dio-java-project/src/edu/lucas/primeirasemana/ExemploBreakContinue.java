@@ -6,7 +6,7 @@ public class ExemploBreakContinue {
             if (numero == 3) 
                 continue;
                 System.out.println(numero);
-            
-        }
+            }
+
     }
 }
